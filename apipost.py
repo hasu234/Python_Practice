@@ -7,7 +7,7 @@ headers = {
     'Content-type':'application/json', 
     'Accept':'application/json'
 }
-url = 'https://font.apurbatech.com:5000/auth/signin'
+url = ''
 data = {"username":"admin","password":"admin"}
 
 r = requests.post(
