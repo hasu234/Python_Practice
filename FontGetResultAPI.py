@@ -1,7 +1,7 @@
 import requests
 
 strr = "ev`kvi KvˆQ m®Zvb ZzjÅ।cÊRvˆ`i mzL-`z:L wbR ˆPvˆL ˆ`Lvi RbÅ Q`Ä ˆeˆk Nzˆi "
-url = 'https://font.apurbatech.com:5000/conversion/text/asciiToUnicode'
+url = ''
 data = {"inputFont":"Lekhoni","outputFont":"UTF-8","inputText": strr}
 
 r = requests.post(
