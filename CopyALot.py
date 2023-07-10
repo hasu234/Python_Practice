@@ -8,6 +8,6 @@ def copylott(src, dst):
         shutil.copy2(src + i, dst)
 
 
-source = '/home/hasu/Downloads/AI_Intro/Introduction_to_AI-main/ML/'
-destination = '/home/hasu/Downloads/AI_Intro/Introduction_to_AI-main/CP/'
+source = ''
+destination = ''
 copylott(source, destination)
